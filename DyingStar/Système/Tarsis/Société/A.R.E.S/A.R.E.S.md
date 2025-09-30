@@ -4,7 +4,7 @@ where: tarsis
 aliases: [Compagnie]
 ---
 
-# 🛠️ La Compagnie (Sandbox)
+# 🛠️ A.R.E.S (Sandbox)
 
 - **Militaro-industrielle**, intégrée verticalement (conçoit ses **véhicules** et **outils**).  
 - **Contrôle total** des employés (contrats, mobilité, logement).  

@@ -1,5 +1,5 @@
 
-# 🎯 Cap
+# Cap
 
 Assurer une trame canon simple et solide : **Exode d’Icare → Immigration Tarsis → Survie sur Sandbox (boucles de jeu & règles de monde)**. Données Sandbox alignées avec le CR du 28/08.
 

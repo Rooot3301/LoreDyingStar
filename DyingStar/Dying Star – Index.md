@@ -5,22 +5,22 @@ Utilise cet index comme **table des matières principale**.
 
 ---
 
-## 📜 Chronologie
+## Chronologie
 - [[Chronologie]]
 
 ---
 
-## 🧑 Personnages
+## Personnages
 - [[Personnages]]
 
 ---
 
-## 🏴‍☠️ Factions
+## Factions
 - [[Factions]]
 
 ---
 
-## ☀️ Système Icare (Début)
+##  Système Icare (Début)
 ### Étoile
 - [[Etoile]]
 
@@ -38,7 +38,7 @@ Utilise cet index comme **table des matières principale**.
 
 ---
 
-## 🌌 Système Tarsis
+## Système Tarsis
 ### Étoile
 - [[Etoile]]
 
@@ -53,5 +53,5 @@ Utilise cet index comme **table des matières principale**.
 
 ---
 
-## 🌍 Univers général
+## Univers général
 - [[Univers]]

@@ -1,112 +1,91 @@
----
-uid: 5bf0dcac-275f-494d-8de1-81d3bac0751a
----
 
+## 1. Idéation (communauté)
 
-## 1.  Préparation & Cadre
-
-- **Bible Lore initiale** : document central (cahier des charges, ton, contraintes, timeline de base).
+- Tout le monde peut proposer des idées → dans le **forum Lore** (ou `#narrative-ideas`).
     
-- **Outils** :
+- Chaque idée doit être présentée sous forme de **thread clair et concis** (1 idée = 1 thread).
     
-    - Obsidian + GitHub → écriture + versioning.
+- Ces idées sont **guidées par les questions hebdomadaires**, fixées par la **Core Lore Team**.
+
+## 2. Animation & tri (leads d’équipes)
+
+- Chaque **équipe thématique** (Univers, Sociétés, Factions, Techno, Mondes, Transports, Mystères) est animée par un lead.
+    
+- Les leads d’équipes :
+    
+    - Organisent les contributions de la semaine.
         
-    - Discord → communication, débats, votes.
+    - Relancent les discussions et recadrent si nécessaire.
         
-    - Wiki/Notion (optionnel) → diffusion publique, version lisible.
+    - Trient les propositions en : exploitables / hors-sujet / à retravailler.
         
-- **Équipe structurée** :
+    - Préparent une **synthèse structurée** pour la Core Lore Team.
+
+
+## 3. Direction & arbitrage (Core Lore Team)
+
+- Les **Core Leads** (gros leads lore) définissent chaque semaine les thèmes prioritaires et les **questions directrices**.
     
-    - _Core Lore Team_ (valide le canon).
+- En fin de semaine, ils :
+    
+    - Étudient les synthèses des équipes.
         
-    - _Leads thématiques_ (factions, techno, timeline, Sandbox…).
+    - Arbitrent les désaccords.
         
-    - _Contributeurs_ (proposent, rédigent).
+    - Valident ce qui devient **canon**.
         
-    - _Archivistes_ (maintiennent la Bible Lore).
+- Ils publient chaque dimanche un **communiqué officiel** (clôture de sprint).
+
+
+## 4. Intégration (archivistes)
+
+- Les **archivistes** prennent les décisions validées par la Core Lore Team.
+    
+- Ils intègrent le contenu dans la **Bible Lore** (Obsidian + GitHub).
+    
+- Chaque élément est standardisé (fiches Markdown avec ID, résumé, tags).
+    
+- Mise à jour des index : frise chronologique, glossaire, atlas des mondes, liste des factions.
+
+## 5. Diffusion (communauté & devs)
+
+- Les contenus validés sont rendus accessibles à tous :
+    
+    - **Annonce Discord** (résumé de la semaine).
         
-
----
-
-## 2. Idéation & Propositions
-
-- Chaque semaine = **Sprint thématique** (ex : Factions, ARES, Timeline…).
-    
-- Sur Discord :
-    
-    - `#pitchs-rapides` → idées brutes (2–3 phrases).
+    - **Wiki public** ou **docs PDF** pour lecture facile.
         
-    - Canaux thématiques (`#factions`, `#sandbox`, etc.) → développement.
-        
-- Output : drafts (Obsidian/GitHub ou Google Doc).
-    
+    - **Exports techniques** (JSON/CSV) pour les équipes gameplay, audio, dev.
 
----
+## 6. Cycle de travail hebdomadaire
 
-## 3. Rédaction & Discussion
+- **Lundi** : publication des thèmes/questions de la semaine (Core Lore Team).
+    
+- **Lun–Ven** : contributions dans le forum, débats et échanges.
+    
+- **Samedi** : synthèses préparées par les leads d’équipes.
+    
+- **Dimanche** : arbitrage final par la Core Lore Team + intégration canon.
 
-- Contributeurs rédigent des **fiches** (personnages, lieux, événements, techno).
-    
-- Discussions et enrichissements en threads Discord.
-    
-- Archivistes taguent les drafts valides.
-    
+## 7. Rôles clés
 
----
+- **Contributeurs** : proposent des idées, enrichissent les discussions.
+    
+- **Leads d’équipes** : organisent et synthétisent les contributions.
+    
+- **Core Lore Team** : définit les priorités, dirige le travail, tranche et valide.
+    
+- **Archivistes** : tiennent la Bible Lore à jour et diffusent les éléments validés.
 
-## 4. Revue & Validation
+# En résumé
 
-- **Feedback** → canal `#feedback-lore` + votes si besoin.
+- **Idées brutes** → proposées par tous.
     
-- **Core Lore Team** relit et décide du canon.
+- **Tri et synthèse** → faits par les leads d’équipes.
     
-- Canon validé = **fusion dans la branche `main` du repo GitHub**.
+- **Arbitrage et validation** → assurés par la Core Lore Team.
     
-- Résumé publié dans `#annonces-lore`.
+- **Intégration canon** → réalisée par les archivistes dans Obsidian/GitHub.
     
-
----
-
-## 5. Intégration & Diffusion
-
-- Lore validé → intégré dans la **Bible Obsidian** (canon officiel).
-    
-- Export périodique → Wiki/Notion/Doc PDF pour consultation large.
-    
-- Glossaire, timeline et index mis à jour.
-    
-
----
-
-## 6. Évolution & Feedback
-
-- Lore reste **vivant** → feedback de la communauté et des équipes gameplay.
-    
-- Ajustements via nouveaux sprints.
-    
-- Lore Freeze → avant milestones de dev/test (stabiliser le canon temporairement).
-    
-
----
-
-# Exemple de Cycle Hebdomadaire
-
-- **Lundi** : annonce du thème + question directrice.
-    
-- **Lun–Ven** : contributions (Discord, drafts).
-    
-- **Samedi** : revue collective (votes + feedback).
-    
-- **Dimanche** : validation + intégration + annonce.
-    
-
----
-
-
-- Un flux continu d’idées, mais filtré et structuré.
-    
-- Une **Bible Lore cohérente et versionnée**.
-    
-- Une équipe de 150 personnes cadrée sans étouffer la créativité.
-
+- **Diffusion** → rendue publique et exploitable par toute l’équipe
 

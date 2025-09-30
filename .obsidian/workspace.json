@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54fb217cdcaf5074",
+        "id": "032e7e6d0a593197",
         "type": "tabs",
         "children": [
           {
-            "id": "ee121dd9f1ce2b0e",
+            "id": "7a0e58b5390f1a37",
             "type": "leaf",
             "state": {
               "type": "3d_graph_view",
@@ -18,62 +18,21 @@
             }
           },
           {
-            "id": "776e9b006dbdafc2",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "78f991cd913b9034",
+            "id": "d3cff2d06773db82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DyingStar/Pipeline de Production.md",
+                "file": "DyingStar/Système/Tarsis/Planète/Sandbox/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipeline de Production"
-            }
-          },
-          {
-            "id": "eff6eab8fb5c566c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-09-30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-30"
-            }
-          },
-          {
-            "id": "c75923631fdc5a5e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sans titre 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sans titre 1"
+              "title": "Index"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,12 +85,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f44304b10e281b3c",
@@ -247,6 +205,43 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "c4d5ddaed6562187",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "b827cd955e572e38",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "2f0947b255a02f6a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "fed3a5831e0421e5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -274,45 +269,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c75923631fdc5a5e",
+  "active": "d3cff2d06773db82",
   "lastOpenFiles": [
-    "2025-09-30.md",
-    "Sans titre 1.canvas",
-    "Sans titre.canvas",
-    "DyingStar/Roadmap.md",
+    "DyingStar/Weekly Report/30 09 2025.md",
+    "DyingStar/Système/Tarsis/Planète/Sandbox/Sandbox.md",
+    "Sans titre.base",
     "DyingStar/Pipeline de Production.md",
-    "Pasted image 20250930115615.png",
+    "DyingStar/Weekly Report",
     "DyingStar/Dying Star – Index.md",
-    "DyingStar/Chronologie/Chronologie Principal.md",
+    "DyingStar/Note de réunion/Note brouillon.md",
     "DyingStar/Note de réunion/Définition des groupes.md",
-    "DyingStar/Note de réunion",
+    "Station.md",
+    "DyingStar/Roadmap.md",
+    "DyingStar/Système/Tarsis/Planète/Sandbox/Index.md",
+    "DyingStar/Note de réunion/Sans titre",
     "DyingStar/Système/Tarsis/Société/A.R.E.S/A.R.E.S.md",
+    "DyingStar/Chronologie/Chronologie Principal.md",
+    "test.txt",
+    "remote-blog",
+    "2025-09-30.md",
+    "Sans titre.canvas",
+    "origin",
+    "Sans titre 1.canvas",
+    "Pasted image 20250930115615.png",
+    "DyingStar/Note de réunion",
     "DyingStar/Système/Tarsis/Planète/Gaea/Gaea.md",
     "DyingStar/Système/Tarsis/Planète/Gaea/Index.md",
     "DyingStar/Système/Tarsis/Planète/Gaea",
-    "DyingStar/Système/Tarsis/Planète/Sandbox/Sandbox.md",
-    "DyingStar/Système/Tarsis/Planète/Sandbox/Index.md",
     "DyingStar/Minneraie/Dédurium.md",
     "DyingStar/Minneraie",
-    "Sans titre",
     "Nyx.md",
     "DyingStar/Système/Tarsis/Société/A.R.E.S",
-    "DyingStar/Système/Tarsis/Société",
     "Dispositif Neural.md",
     "Etoile.md",
-    "Station.md",
     "DyingStar/Système/Icare (Début)/Etoile/Icare.md",
-    "DyingStar/Système/Icare (Début)/Station/Helion",
     "DyingStar/Système/Icare (Début)/Station/Helion.md",
     "DyingStar/Système/Icare (Début)/Station/Bastion.md",
-    "DyingStar/Système/Icare (Début)/Station/Bastion",
-    "DyingStar/Système/Icare (Début)/Planète/Veyra",
     "DyingStar/Système/Icare (Début)/Planète/Veyra.md",
     "DyingStar/Système/Icare (Début)/Planète/Sans titre/Erevos.md",
-    "DyingStar/Système/Icare (Début)/Planète/Nara",
     "DyingStar/Système/Icare (Début)/Lune/Kaelis.md",
-    "DyingStar/Système/Icare (Début)/Station.md",
-    "DyingStar/Système/Icare (Début)/Lune/Lazareth.md",
-    "DyingStar/Système/Icare (Début)/Planète/Nara.md"
+    "DyingStar/Système/Icare (Début)/Station.md"
   ]
 }

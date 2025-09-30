@@ -5,7 +5,7 @@ where: global
 aliases: [Timeline]
 ---
 
-# 📜 Chronologie
+# Chronologie
 
 > Ligne du temps officielle du lore **Dying Star** : de l’essor d’[[Icare]] à l’exode vers [[Tarsis]], puis l’arrivée sur [[Sandbox]].
 

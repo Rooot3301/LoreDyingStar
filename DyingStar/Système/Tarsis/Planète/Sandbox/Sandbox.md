@@ -11,7 +11,7 @@ aliases: [Planète Sandbox]
 
 ## Présentation
 - Planète **désertique rocheuse**, gravité ≈ Terre, **températures vivables mais à variations extrêmes**.  
-- **Aucune vie connue**. **Pas d’eau de surface** aujourd’hui ; **canyons** et **déserts de sel** suggèrent un passé humide.  
+- **Aucune vie connue**. **Pas d’eau de surface** aujourd’hui ; **canyons** et **déserts de sel** suggèrent un passé humide test.  
 - **Vents violents** en moyenne altitude (≈ 500 m – 9 km) ⇒ **trafic aérien limité** aux **hautes altitudes** → « **villes aéroportuaires** ».  
 - **Planète minière** : **point névralgique** des colonies humaines (ressource rare en abondance, à définir). 
 
