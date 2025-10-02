@@ -97,6 +97,6 @@ aliases: [Timeline]
 ## Liens utiles
 - [[Icare (Début)/Index|Index Icare]]  
 - [[Tarsis/Index|Index Tarsis]]  
-- [[Sandbox/Index|Index Sandbox]]  
+- [[DyingStarDev/Système/Tarsis/Planète/Sandbox/Index|Index Sandbox]]  
 - [[Nara]] · [[Veyra]] · [[Erevos]]  
 - [[Helion]] · [[Bastion]] · Lazareth

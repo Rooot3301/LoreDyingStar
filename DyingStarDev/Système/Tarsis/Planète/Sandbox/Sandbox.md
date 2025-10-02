@@ -92,4 +92,4 @@ aliases: [Planète Sandbox]
 ## Économie
 - **Globale fermée** et **hybride** : **algorithmes** régulent l’offre/demande/prix/épuisement ; **PNJ générés** si besoin ; **grandes corporations** peuvent **créer de l’argent** pour les missions ; pistes **crypto/monnaie** pour la dévaluation. **Équipe dédiée** recommandée. 
   
-> ↑ Parent : [[Système/Tarsis/Planète/Sandbox/Index]]
+> ↑ Parent : [[DyingStarDev/Système/Tarsis/Planète/Sandbox/Index]]
