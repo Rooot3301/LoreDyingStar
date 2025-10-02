@@ -13,8 +13,8 @@
             "state": {
               "type": "3d_graph_view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
             }
           },
           {
@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DyingStar/Système/Tarsis/Planète/Sandbox/Index.md",
+                "file": "DyingStar/Pipeline de Production.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Pipeline de Production"
             }
           }
         ],
@@ -215,6 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -224,6 +225,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -233,6 +235,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -242,6 +245,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -271,17 +275,19 @@
   },
   "active": "d3cff2d06773db82",
   "lastOpenFiles": [
-    "DyingStar/Weekly Report/30 09 2025.md",
-    "DyingStar/Système/Tarsis/Planète/Sandbox/Sandbox.md",
+    "Pasted image 20251002115004.png",
+    "DyingStar/Note de réunion/Note brouillon.md",
+    "DyingStar/Minneraie/Dédurium.md",
     "Sans titre.base",
     "DyingStar/Pipeline de Production.md",
+    "DyingStar/Weekly Report/30 09 2025.md",
+    "DyingStar/Roadmap.md",
+    "Station.md",
+    "DyingStar/Système/Tarsis/Planète/Sandbox/Index.md",
+    "DyingStar/Système/Tarsis/Planète/Sandbox/Sandbox.md",
     "DyingStar/Weekly Report",
     "DyingStar/Dying Star – Index.md",
-    "DyingStar/Note de réunion/Note brouillon.md",
     "DyingStar/Note de réunion/Définition des groupes.md",
-    "Station.md",
-    "DyingStar/Roadmap.md",
-    "DyingStar/Système/Tarsis/Planète/Sandbox/Index.md",
     "DyingStar/Note de réunion/Sans titre",
     "DyingStar/Système/Tarsis/Société/A.R.E.S/A.R.E.S.md",
     "DyingStar/Chronologie/Chronologie Principal.md",
@@ -296,7 +302,6 @@
     "DyingStar/Système/Tarsis/Planète/Gaea/Gaea.md",
     "DyingStar/Système/Tarsis/Planète/Gaea/Index.md",
     "DyingStar/Système/Tarsis/Planète/Gaea",
-    "DyingStar/Minneraie/Dédurium.md",
     "DyingStar/Minneraie",
     "Nyx.md",
     "DyingStar/Système/Tarsis/Société/A.R.E.S",

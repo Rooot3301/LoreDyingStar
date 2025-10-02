@@ -89,3 +89,7 @@
     
 - **Diffusion** → rendue publique et exploitable par toute l’équipe
 
+
+
+
+![[Pasted image 20251002115004.png]]
