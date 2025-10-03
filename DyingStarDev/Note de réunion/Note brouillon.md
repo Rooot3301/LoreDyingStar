@@ -40,3 +40,29 @@ Organisation de travail :
 -> Un pipeline de production clair arrive bientot pour cadrer le flux d'écriture 
 -> Les outils de collaborations sont en cours d'organisation
 -> Organisation de la team lead en interne 
+
+
+
+
+
+
+
+
+
+
+on spawn direct sur la planète, le changement de planète doit etre un evenement
+
+dans le bureau de l'immigration, ambiance lourde, journal tv qui contextualise, etc
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+Récurrence : 
+
+-> Faire un point hebdo lead & définir des récurrences par service 
+
+-> 
