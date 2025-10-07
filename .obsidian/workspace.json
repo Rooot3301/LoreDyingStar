@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Géographie et Climat.md",
+                "file": "DyingStarProd/FACTIONS/ARES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Géographie et Climat"
+              "title": "ARES"
             }
           }
         ],
@@ -313,22 +313,23 @@
   },
   "active": "5b7f8e999dcce58c",
   "lastOpenFiles": [
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Villes.md",
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Transports_Locaux.md",
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Index.md",
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Géographie et Climat.md",
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Economie.md",
+    "DyingStarProd/GAMEPLAY_LINKS/Quêtes_Intro.md",
+    "DyingStarProd/GAMEPLAY_LINKS/Missions_ARES.md",
+    "DyingStarProd/GAMEPLAY_LINKS/Events_Monde.md",
+    "DyingStarProd/GAMEPLAY_LINKS/Contrebande_Sandbox.md",
     "DyingStarProd/FACTIONS/Résistances.md",
     "DyingStarProd/FACTIONS/Pirates_Indépendants.md",
     "DyingStarProd/FACTIONS/Groupes_Politiques.md",
     "DyingStarProd/FACTIONS/ARES.md",
     "Pasted image 20251002115004.png",
     "Station.md",
+    "DyingStarDev/Minneraie/Dédurium.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Géographie et Climat.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Economie.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Index.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Villes.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Transports_Locaux.md",
     "conflict-files-obsidian-git.md",
-    "DyingStarProd/GAMEPLAY_LINKS/Events_Monde.md",
-    "DyingStarProd/GAMEPLAY_LINKS/Contrebande_Sandbox.md",
-    "DyingStarProd/GAMEPLAY_LINKS/Missions_ARES.md",
-    "DyingStarProd/GAMEPLAY_LINKS/Quêtes_Intro.md",
     "DyingStarProd/MYSTERES/Anomalies_Tarsis.md",
     "DyingStarProd/Sans titre",
     "DyingStarProd/MYSTERES/Rumeurs_Sandbox.md",
@@ -339,8 +340,6 @@
     "DyingStarProd/TRANSPORTS_INFRA/Réseau_Ferroviaire.md",
     "DyingStarProd/TECHNOLOGIES/Vaisseaux_Spatiaux.md",
     "DyingStarProd/TECHNOLOGIES/Ressources_Rares.md",
-    "DyingStarProd/TECHNOLOGIES/IA_Automatisation.md",
-    "DyingStarProd/TECHNOLOGIES/Transhumanisme_Implants.md",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/GAEA",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX",
     "DyingStarProd/MONDES/SYSTEME/NARA",
