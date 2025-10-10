@@ -1,7 +1,9 @@
 
+Mis à jour le : 10/10/2025 [ en attente de validation ]
+
 ### 1. Origines et Modèle de Contrôle Corporatiste
 
-L'A.R.E.S. Corporation (Armament Research & Engineering Systems) est une méga-corporation d'origine Terrienne. Initialement une société de production industrielle du secteur secondaire (équipementier automobile et aérospatial), elle a connu une croissance sans précédent. Elle s'est transformée en un conglomérat militaro-industriel au fil des alliances des familles dirigeantes, intégrant des filiales dans les mines, banques, chimie et transport. L'ouverture d'une Société Militaire Privée (SMP) a été un levier clé pour la protection de ses infrastructures et la conduite d'actions hostiles (renseignement, espionnage). A.R.E.S est une entité monolithique, verticale et tentaculaire. Son nom (ARES, dieu grec) et son architecture (gréco-romaine, aseptisée) suggèrent une culture occidentale et impérialiste.
+L'A.R.E.S. Corporation (Armament Research & Engineering Systems) est une méga-corporation d'origine Terrienne. Initialement fondée par 4 grandes sociétés et leurs familles respectives ( SMP, ARES Mining, ARES Machinery, ARES Living Essential ), elle a connu une croissance sans précédent. Elle s'est transformée en un conglomérat militaro-industriel au fil des alliances des familles dirigeantes, intégrant des filiales dans les mines, banques, chimie et transport. L'ouverture d'une Société Militaire Privée (SMP) a été un levier clé pour la protection de ses infrastructures et la conduite d'actions hostiles (renseignement, espionnage). A.R.E.S est une entité monolithique, verticale et tentaculaire. Son nom (ARES, dieu grec) et son architecture (gréco-romaine, aseptisée) suggèrent une culture occidentale et impérialiste.
 
 ARES n'est pas un État officiel (les institutions politiques et l’armée restant théoriquement supérieures), mais elle exerce un contrôle quasi-absolu par :
 
@@ -18,11 +20,11 @@ ARES n'est pas un État officiel (les institutions politiques et l’armée rest
 
 La corporation est régie par une structure pyramidale mixte (militaire, politique, entrepreneuriale) qui institutionnalise la compétition interne à tous les niveaux.
 
-1. Le Conseil dirigeant : Au sommet se trouve Le conseil, composée de neuf familles dirigeantes ploutocratiques. 4 familles originelles (Mining, Machinery, Living Essential, Security) et 5 familles qui ont été intégrées elles et leurs activités au fil du temps. C’est la chambre qui définit les "grands projets" et le "cap à tenir" avec une réunion annuelle visant également à désigner un représentant public parmi les familles : Le porte parole général. 
+1. Le Conseil dirigeant : Au sommet se trouve Le conseil, composée de neuf familles dirigeantes ploutocratiques. Chaque membre de ce conseil dirigeant est un Doyen. Le conseil est composé des familles originelles (Mining, Machinery, Living Essential, Security) et 5 familles qui ont été intégrées elles et leurs activités au fil du temps. C’est la chambre qui définit les "grands projets" et le "cap à tenir" avec une réunion annuelle visant également à désigner un représentant public parmi les familles : Le porte parole général. 
     
-2. Le porte parole général : Changeant tous les ans, il est le visage publique de la corporation. Sa fonction fait de lui l’interlocuteur principal de toute autre autorité cherchant à négocier avec la corporation. Il est également chargé des campagnes de propagandes internes.
+2. Secrétaire général : Changeant tous les ans, il est le visage public de la corporation. Sa fonction fait de lui l’interlocuteur principal de toute autre autorité cherchant à négocier avec la corporation. Il est également chargé des campagnes de propagandes internes.
     
-3. Les Doyens / Doyennes :Les doyens sont les dirigeants des grandes filiales. Responsables applicatifs  des directives du Conseil. Ils reçoivent des objectifs semestriels intenables, les poussant parfois au sabotage mutuel pour gagner les faveurs du Conseil.
+3. Les directeurissimes : Les directeurissimes sont les dirigeants des grandes filiales. Responsables applicatifs  des directives du Conseil. Ils reçoivent des objectifs semestriels intenables, les poussant parfois au sabotage mutuel pour gagner les faveurs du Conseil.
     
 4. Les Généralissimes : En charge d'un pôle spécifique au sein d'une filiale. Organisent directement la production et l'organisation du travail.
     
