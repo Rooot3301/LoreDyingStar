@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DyingStarProd/FACTIONS/ARES.md",
+                "file": "DyingStarProd/FACTIONS/A.R.E.S corp/Général.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARES"
+              "title": "Général"
             }
           }
         ],
@@ -313,10 +313,17 @@
   },
   "active": "5b7f8e999dcce58c",
   "lastOpenFiles": [
-    "Pasted image 20251002115004.png",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/La hiérarchie interne.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Les relations avec la populations.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Situation géopolitique et stratégie.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Les familles dirigeantes.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Les filiales d'A.R.E.S.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Général.md",
     "DyingStarProd/FACTIONS/ARES.md",
-    "DyingStarProd/GAMEPLAY_LINKS/Quêtes_Intro.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp",
     "DyingStarProd/GAMEPLAY_LINKS/Missions_ARES.md",
+    "Pasted image 20251002115004.png",
+    "DyingStarProd/GAMEPLAY_LINKS/Quêtes_Intro.md",
     "DyingStarProd/GAMEPLAY_LINKS/Events_Monde.md",
     "DyingStarProd/GAMEPLAY_LINKS/Contrebande_Sandbox.md",
     "DyingStarProd/FACTIONS/Résistances.md",
@@ -335,11 +342,6 @@
     "DyingStarProd/MYSTERES/Rumeurs_Sandbox.md",
     "DyingStarProd/MYSTERES/Mystère_Icare.md",
     "DyingStarProd/TRANSPORTS_INFRA/Réseaux_Energie_Comm.md",
-    "DyingStarProd/TRANSPORTS_INFRA/Ports_Spatiaux.md",
-    "DyingStarProd/TRANSPORTS_INFRA/Stations_Orbitales.md",
-    "DyingStarProd/TRANSPORTS_INFRA/Réseau_Ferroviaire.md",
-    "DyingStarProd/TECHNOLOGIES/Vaisseaux_Spatiaux.md",
-    "DyingStarProd/TECHNOLOGIES/Ressources_Rares.md",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/GAEA",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX",
     "DyingStarProd/MONDES/SYSTEME/NARA",
@@ -348,7 +350,6 @@
     "DyingStarProd/ARCHIVES",
     "DyingStarProd/DRAFTS",
     "DyingStarProd/GAMEPLAY_LINKS",
-    "DyingStarProd/MYSTERES",
     "Sans titre.canvas",
     "Sans titre 1.canvas",
     "Pasted image 20250930115615.png"
