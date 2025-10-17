@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DyingStarDev/Note de réunion/Définition des groupes.md",
+                "file": "DyingStarProd/FACTIONS/A.R.E.S corp/Général.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Définition des groupes"
+              "title": "Général"
             }
           }
         ],
@@ -83,7 +83,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -204,8 +204,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -214,8 +214,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -224,8 +224,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -234,8 +234,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -244,8 +244,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -254,8 +254,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -264,8 +264,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -274,12 +274,22 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
+            }
+          },
+          {
+            "id": "afdf3db7a29ef121",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -287,59 +297,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "3d-graph:3D Graph": false,
       "note_uid_generator:Create uid if missing": false,
-      "templater-obsidian:Templater": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "5b7f8e999dcce58c",
   "lastOpenFiles": [
+    "DyingStarProd/FACTIONS/A.R.E.S corp/La hiérarchie interne.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Les relations avec la populations.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Situation géopolitique et stratégie.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Les familles dirigeantes.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Les filiales d'A.R.E.S.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp/Général.md",
+    "DyingStarProd/FACTIONS/ARES.md",
+    "DyingStarProd/FACTIONS/A.R.E.S corp",
+    "DyingStarProd/GAMEPLAY_LINKS/Missions_ARES.md",
+    "Pasted image 20251002115004.png",
+    "DyingStarProd/GAMEPLAY_LINKS/Quêtes_Intro.md",
     "DyingStarProd/GAMEPLAY_LINKS/Events_Monde.md",
     "DyingStarProd/GAMEPLAY_LINKS/Contrebande_Sandbox.md",
-    "DyingStarProd/GAMEPLAY_LINKS/Missions_ARES.md",
-    "DyingStarProd/GAMEPLAY_LINKS/Quêtes_Intro.md",
+    "DyingStarProd/FACTIONS/Résistances.md",
+    "DyingStarProd/FACTIONS/Pirates_Indépendants.md",
+    "DyingStarProd/FACTIONS/Groupes_Politiques.md",
+    "Station.md",
+    "DyingStarDev/Minneraie/Dédurium.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Géographie et Climat.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Economie.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Index.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Villes.md",
+    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Transports_Locaux.md",
+    "conflict-files-obsidian-git.md",
     "DyingStarProd/MYSTERES/Anomalies_Tarsis.md",
     "DyingStarProd/Sans titre",
     "DyingStarProd/MYSTERES/Rumeurs_Sandbox.md",
     "DyingStarProd/MYSTERES/Mystère_Icare.md",
     "DyingStarProd/TRANSPORTS_INFRA/Réseaux_Energie_Comm.md",
-    "DyingStarProd/TRANSPORTS_INFRA/Ports_Spatiaux.md",
-    "DyingStarProd/TRANSPORTS_INFRA/Stations_Orbitales.md",
-    "DyingStarProd/TRANSPORTS_INFRA/Réseau_Ferroviaire.md",
-    "DyingStarProd/TECHNOLOGIES/Vaisseaux_Spatiaux.md",
-    "DyingStarProd/TECHNOLOGIES/Ressources_Rares.md",
-    "DyingStarProd/TECHNOLOGIES/IA_Automatisation.md",
-    "DyingStarProd/TECHNOLOGIES/Transhumanisme_Implants.md",
-    "DyingStarProd/TECHNOLOGIES/Portails_TOR.md",
-    "DyingStarProd/PERSONNAGES/Leaders_Factions.md",
-    "DyingStarProd/PERSONNAGES/Figures_Politiques.md",
-    "DyingStarProd/PERSONNAGES/Personnages_Majeurs.md",
-    "DyingStarProd/SOCIETES_CULTURES/Vie_Quotidienne.md",
-    "DyingStarProd/SOCIETES_CULTURES/Religions_Croyances.md",
-    "DyingStarProd/SOCIETES_CULTURES/Langues.md",
-    "DyingStarProd/SOCIETES_CULTURES/Colons_Sandbox.md",
-    "DyingStarProd/SOCIETES_CULTURES/Exilés_dIcare.md",
-    "DyingStarProd/FACTIONS/Résistances.md",
-    "DyingStarProd/FACTIONS/Pirates_Indépendants.md",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/GAEA",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX",
     "DyingStarProd/MONDES/SYSTEME/NARA",
     "DyingStarProd/MONDES/SYSTEME/TARSIS",
     "DyingStarProd/MONDES/SYSTEME",
-    "Pasted image 20251002115004.png",
     "DyingStarProd/ARCHIVES",
     "DyingStarProd/DRAFTS",
     "DyingStarProd/GAMEPLAY_LINKS",
-    "DyingStarProd/MYSTERES",
     "Sans titre.canvas",
     "Sans titre 1.canvas",
     "Pasted image 20250930115615.png"

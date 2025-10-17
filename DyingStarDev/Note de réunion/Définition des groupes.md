@@ -5,7 +5,7 @@
 
 1. **Autorité & Politique intersidérale**
     
-    - Gouvernance, lois, commerce, guerres, diplomatie.
+    - Gouvernance, lois, commerce, guerres, diplomatie, bah relou.
         
 2. **Chronologie & Histoire**
     
