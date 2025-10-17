@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Les filiales d'A.R.E.S.md",
+                "file": "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Propagande et outils de contrôle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les filiales d'A.R.E.S"
+              "title": "Propagande et outils de contrôle"
             }
           }
         ],
@@ -313,12 +313,19 @@
   },
   "active": "5b7f8e999dcce58c",
   "lastOpenFiles": [
-    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Tour d'horizon général.md",
-    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Les filiales d'A.R.E.S.md",
     "DyingStarDev/Système/Tarsis/Société/A.R.E.S/A.R.E.S.md",
+    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Propagande et outils de contrôle.md",
+    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Les relations avec la population.md",
+    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/la hiérarchie interne.md",
+    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Situation géopolitique et stratégie.md",
+    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Les familles dirigeantes.md",
+    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Général.md",
+    "Station.md",
+    "Sans titre.base",
+    "Pasted image 20251002115004.png",
+    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Les filiales d'A.R.E.S.md",
     "DyingStarDev/Pipeline de Production.md",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Géographie et Climat.md",
-    "Station.md",
     "DyingStarProd/FACTIONS/A.R.E.S corp/Propagande et outils de contrôle.md",
     "DyingStarProd/FACTIONS/A.R.E.S corp/Général.md",
     "DyingStarProd/FACTIONS/A.R.E.S corp/La hiérarchie interne.md",
@@ -329,18 +336,12 @@
     "DyingStarProd/FACTIONS/ARES.md",
     "DyingStarProd/FACTIONS/A.R.E.S corp",
     "DyingStarProd/GAMEPLAY_LINKS/Missions_ARES.md",
-    "Pasted image 20251002115004.png",
     "DyingStarProd/GAMEPLAY_LINKS/Quêtes_Intro.md",
     "DyingStarProd/GAMEPLAY_LINKS/Events_Monde.md",
     "DyingStarProd/GAMEPLAY_LINKS/Contrebande_Sandbox.md",
     "DyingStarProd/FACTIONS/Résistances.md",
     "DyingStarProd/FACTIONS/Pirates_Indépendants.md",
     "DyingStarProd/FACTIONS/Groupes_Politiques.md",
-    "DyingStarDev/Minneraie/Dédurium.md",
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Economie.md",
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Index.md",
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Villes.md",
-    "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX/Transports_Locaux.md",
     "DyingStarProd/Sans titre",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/GAEA",
     "DyingStarProd/MONDES/SYSTEME/TARSIS/SANDBOX",
@@ -349,7 +350,6 @@
     "DyingStarProd/MONDES/SYSTEME",
     "DyingStarProd/ARCHIVES",
     "DyingStarProd/DRAFTS",
-    "DyingStarProd/GAMEPLAY_LINKS",
     "Sans titre.canvas",
     "Sans titre 1.canvas",
     "Pasted image 20250930115615.png"
