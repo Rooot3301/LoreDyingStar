@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Propagande et outils de contrôle.md",
+                "file": "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Général.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propagande et outils de contrôle"
+              "title": "Général"
             }
           }
         ],
@@ -313,8 +313,8 @@
   },
   "active": "5b7f8e999dcce58c",
   "lastOpenFiles": [
-    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/A.R.E.S.md",
     "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Propagande et outils de contrôle.md",
+    "DyingStarDev/Système/Tarsis/Société/A.R.E.S/A.R.E.S.md",
     "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Les relations avec la population.md",
     "DyingStarDev/Système/Tarsis/Société/A.R.E.S/la hiérarchie interne.md",
     "DyingStarDev/Système/Tarsis/Société/A.R.E.S/Situation géopolitique et stratégie.md",
